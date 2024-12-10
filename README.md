@@ -1,11 +1,11 @@
 # Hierarchical-honeycomb-panel-design-and-analysis
- This study explores a novel biomimetic honeycomb structure inspired by natural hexagonal patterns found in honeycombs and spider webs. Using SOLIDWORKS, a conventional honeycomb core is designed, and three advanced honeycomb variants are developed. Each variant incorporates hierarchical hexagonal infill patterns interconnected by web-like frameworks resembling spider silk.
+ This study explores a **novel biomimetic honeycomb structure** inspired by natural hexagonal patterns found in honeycombs and spider webs. Using **SOLIDWORKS**, a conventional honeycomb core is designed, and three advanced honeycomb variants are developed. Each variant incorporates hierarchical hexagonal infill patterns interconnected by web-like frameworks resembling **spider cobwebs**.
 
 The composite structure consists of:
 
-Face Sheets: Carbon Fibre-Polyether Ether Ketone (CF-PEEK)
-Core Material: Aluminium 7075 T6
-Mechanical performance is evaluated through a static three-point bending test using ANSYS 2024 R1 to analyze flexural behavior, focusing on parameters like stiffness and weighted stiffness. Results are compared to conventional honeycomb designs, demonstrating:
+Face Sheets: **Carbon Fibre-Polyether Ether Ketone (CF-PEEK)**
+Core Material: **Aluminium 7075 T6**
+Mechanical performance is evaluated through a **static three-point bending test** using ANSYS 2024 R1 to analyze flexural behavior, focusing on parameters like stiffness and weighted stiffness. Results are compared to conventional honeycomb designs, demonstrating:
 
 Significant improvements in stiffness-to-weight ratio
 Enhanced structural performance through geometric modifications
