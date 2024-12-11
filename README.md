@@ -29,7 +29,7 @@ Describe the problem, your solution, and the impact.
 
 ## Methodology  
 Here is a flowchart for better understanding of the project workflow process and methodology.
-![Project Methodology](images/Project Flowchart.png)  
+![Project Methodology](images/Project%20Flowchart.png)  
 
 ## Key Results  
 - Achievement 1  
