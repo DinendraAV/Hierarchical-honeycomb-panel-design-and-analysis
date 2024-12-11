@@ -1,6 +1,7 @@
 # Design, Analysis and Comparison of Biomimetic Hierarchical Honeycomb Sandwich Composites for Aerospace Applications
-- This project is my Master Thesis Topic and I carried out my thesis at Politecnico di Milano, Milan, Italy
- This study explores a **novel biomimetic honeycomb structure** inspired by natural hexagonal patterns found in honeycombs and spider webs. Adopting these biomimetic principles, with the aid of primarily **SOLIDWORKS** and **ANSYS SpaceClaim 2024**, a conventional honeycomb core is designed, and three hierarchical honeycomb variants namely first order, second order and the third order are designed. The panels were assembled between face sheets for a sandwich composite specimen. Each variant incorporates hierarchical hexagonal infill patterns interconnected by web-like frameworks resembling **spider cobwebs**.
+- This project is my Master Thesis Topic and I carried out my thesis at Politecnico di Milano, Milan, Italy.
+  
+- This study explores a **novel biomimetic honeycomb structure** inspired by natural hexagonal patterns found in honeycombs and spider webs. Adopting these biomimetic principles, with the aid of primarily **SOLIDWORKS** and **ANSYS SpaceClaim 2024**, a conventional honeycomb core is designed, and three hierarchical honeycomb variants namely first order, second order and the third order are designed. The panels were assembled between face sheets for a sandwich composite specimen. Each variant incorporates hierarchical hexagonal infill patterns interconnected by web-like frameworks resembling **spider cobwebs**.
 
 The composite structure consists of:
 
