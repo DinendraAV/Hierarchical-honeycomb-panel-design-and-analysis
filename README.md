@@ -14,8 +14,7 @@ The findings highlight the effectiveness of biomimetic design principles in opti
 2. [Technologies Used](#technologies-used)  
 3. [Methodology](#methodology)  
 4. [Key Results](#key-results)  
-5. [Screenshots/Demos](#screenshotsdemos)  
-6. [License](#license)  
+5. [Screenshots](#screenshotsdemos)   
 
 ## Project Overview  
 Describe the problem, your solution, and the impact.
