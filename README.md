@@ -1,14 +1,12 @@
 # Hierarchical-honeycomb-panel-design-and-analysis
- This study explores a **novel biomimetic honeycomb structure** inspired by natural hexagonal patterns found in honeycombs and spider webs. Using **SOLIDWORKS**, a conventional honeycomb core is designed, and three advanced honeycomb variants are developed. Each variant incorporates hierarchical hexagonal infill patterns interconnected by web-like frameworks resembling **spider cobwebs**.
+ This study explores a **novel biomimetic honeycomb structure** inspired by natural hexagonal patterns found in honeycombs and spider webs. Adopting these biomimetic principles, with the aid of primarily **SOLIDWORKS** and **ANSYS SpaceClaim 2024**, a conventional honeycomb core is designed, and three hierarchical honeycomb variants namely first order, second order and the third order are designed. The panels were assembled between face sheets for a sandwich composite specimen. Each variant incorporates hierarchical hexagonal infill patterns interconnected by web-like frameworks resembling **spider cobwebs**.
 
 The composite structure consists of:
 
 Face Sheets: **Carbon Fibre-Polyether Ether Ketone (CF-PEEK)**
 Core Material: **Aluminium 7075 T6**
-Mechanical performance is evaluated through a **static three-point bending test** using ANSYS 2024 R1 to analyze flexural behavior, focusing on parameters like stiffness and weighted stiffness. Results are compared to conventional honeycomb designs, demonstrating:
+Mechanical performance is evaluated through a **static three-point bending test** using ANSYS 2024 R1 to analyze flexural behavior, focusing on parameters like stiffness and weighted stiffness. Results of each hierarchical honeycomb panel are compared to conventional honeycomb designs and the data is tabulated for comparison.
 
-Significant improvements in stiffness-to-weight ratio
-Enhanced structural performance through geometric modifications
 The findings highlight the effectiveness of biomimetic design principles in optimizing material performance for aerospace applications, where weight efficiency and structural integrity are paramount. By emulating natural geometries, this research paves the way for the development of innovative, high-performance materials that achieve a balance between strength, weight, and durability.
 
 ## Table of Contents  
@@ -32,14 +30,15 @@ Here is a flowchart for better understanding of the project workflow process and
 ![Project Methodology](images/Project%20Flowchart.png)  
 
 ## Key Results  
-- Achievement 1  
-- Achievement 2  
+- Overall higher Strength - weight ratio was achieved in the hierarchical honeycomb panels when compared with the conventional honeycomb panel 
+- There was a significant increase in the specific stiffness of the third order hierarchical honeycomb panel around 65% when compared with the conventional honeycomb panel. 
 
-## Screenshots/Demos  
-![Description](path/to/image.png)  
-
-## Installation & Usage  
-Steps to run the project.  
+## Screenshots 
+Some of the analysis screenshots are given below for a better visual understanding,
+![Conventional Honeycomb](Analysis/Core_TS.png)
+![First Order Hierarchical Honeycomb](Analysis/Core_S1.png)
+![Second Order Hierarchical Honeycomb](Analysis/Core_S4.png)
+![Third Order Hierarchical Honeycomb](Analysis/Core_S5.png)
 
 ## License  
 Licensed under MIT License.  
