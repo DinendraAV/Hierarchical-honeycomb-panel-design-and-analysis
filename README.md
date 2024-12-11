@@ -47,6 +47,3 @@ Core Deformation of Third Order Hierarchical Honeycomb
 
 **👤 About Me**  
 For more about my background, projects, and contact details, check out my [GitHub profile](https://github.com/DinendraAV) or [LinkedIn](https://www.linkedin.com/in/dinendra-av/)
-
-## License  
-Licensed under MIT License.  
