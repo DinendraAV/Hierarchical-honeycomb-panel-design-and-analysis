@@ -35,6 +35,7 @@ Here is a flowchart for better understanding of the project workflow process and
 
 ## Screenshots 
 Some of the analysis screenshots are given below for a better visual understanding,
+
 ![Conventional Honeycomb](Analysis/Core_TS.png)
 Core Deformation of Conventional Honeycomb
 ![First Order Hierarchical Honeycomb](Analysis/Core_S1.png)
@@ -43,6 +44,9 @@ Core Deformation of First Order Hierarchical Honeycomb
 Core Deformation of Second Order Hierarchical Honeycomb
 ![Third Order Hierarchical Honeycomb](Analysis/Core_S5.png)
 Core Deformation of Third Order Hierarchical Honeycomb
+
+**👤 About Me**  
+For more about my background, projects, and contact details, check out my [GitHub profile](https://github.com/DinendraAV) or [LinkedIn](https://www.linkedin.com/in/dinendra-av/)
 
 ## License  
 Licensed under MIT License.  
